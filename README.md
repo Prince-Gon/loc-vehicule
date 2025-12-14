@@ -70,7 +70,6 @@ php artisan db:seed
 
 ```bash
 npm install
-npm run dev   # or `npm run build` for production
 ```
 
 8. Start the development server
